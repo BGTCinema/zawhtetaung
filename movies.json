@@ -1748,5 +1748,33 @@
     "preview": "https://m.media-amazon.com/images/M/MV5BZTczYjNiNDYtMzU3MS00MTljLWFhOGYtOWM0YTAwNWQ2N2I1XkEyXkFqcGdeQXVyMTAzOTQ3MjY1._V1_FMjpg_UX1000_.jpg",
     "video": "https://mycinema.asia/media/films/Privilege 2022.360P/Privilege 2022.360P.m3u8",
     "timestamp": "26/2/2022"
+  },
+  {
+    "title": "Invisible Sue (2019)",
+    "imdb": "IMDB 4.3",
+    "preview": "https://m.media-amazon.com/images/M/MV5BNjE2MzVjNGItNTIzNi00OGNlLThkODctN2UyNWQzNDUyM2JjXkEyXkFqcGdeQXVyMTI5NzYzNzI0._V1_.jpg",
+    "video": "https://mycinema.asia/media/films/Invisible_Sue_2019_360/Invisible_Sue_2019_360.m3u8",
+    "timestamp": "01/3/2022"
+  },
+  {
+    "title": "Wake Up (2019)",
+    "imdb": "IMDB 2.9",
+    "preview": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQ9b-jgZixumvIh8pyS-7RDyzy5xxXEJ4PrxsV4fyKYve2KqQ0r",
+    "video": "https://mycinema.asia/media/films/Wake_Up_2019_360/Wake_Up_2019_360.m3u8",
+    "timestamp": "01/3/2022"
+  },
+  {
+    "title": "One Must Fall (2018)",
+    "imdb": "IMDB 4.6",
+    "preview": "https://m.media-amazon.com/images/M/MV5BYTlkMWQxZDUtZmNhMi00YjdlLTlhZmEtYjg3MDZjM2ZjOTQ3XkEyXkFqcGdeQXVyNzY4OTE1NjI@._V1_FMjpg_UX1000_.jpg",
+    "video": "https://mycinema.asia/media/films/One_Must_Fall_2019_360/One_Must_Fall_2019_360.m3u8",
+    "timestamp": "01/3/2022"
+  },
+  {
+    "title": "Resident Evil: Welcome to Raccoon City (2021)",
+    "imdb": "IMDB 6.0",
+    "preview": "https://encrypted-tbn3.gstatic.com/images?q\u003dtbn:ANd9GcSoGR6XjehXbKxkTKu3ZysVHtdX3aWWwfAVU0xGOxQfNf7qxvRp",
+    "video": "https://mycinema.asia/media/films/Resident.Evil.Welcome.to.Raccoon.City_2021/Resident.Evil.Welcome.to.Raccoon.City_2021.m3u8",
+    "timestamp": "01/3/2022"
   }
 ]
