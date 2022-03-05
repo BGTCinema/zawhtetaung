@@ -178,5 +178,29 @@
     "preview": "https://encrypted-tbn1.gstatic.com/images?q\u003dtbn:ANd9GcTltKQ2n5mPsNeXOLl6l-xoxo7fQm1dF7XfPb2x9wzxrEV5qv3_",
     "video": "https://mycinema.asia/media/films/Rio_2_2014/Rio_2_2014.m3u8",
     "imdb": "IMDB 6.3"
+  },
+  {
+    "title": "Big Hero (2014)",
+    "preview": "https://contentserver.com.au/assets/603740_p10569216_p_v8_aj.jpg",
+    "video": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210423/ebd8c5ed1a4942b.mp4",
+    "imdb": "IMDB 7.8"
+  },
+  {
+    "title": "Pokemon (1997)",
+    "preview": "https://encrypted-tbn2.gstatic.com/images?q\u003dtbn:ANd9GcRaN0k6vcCQIdAW8_U4LztICNTzpMK5Vofu_h08OOwzZkM5L2Ix",
+    "video": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210601/75aae500b0ab43a.mp4",
+    "imdb": "IMDB 6.5"
+  },
+  {
+    "title": "Moana (2016)",
+    "preview": "https://encrypted-tbn1.gstatic.com/images?q\u003dtbn:ANd9GcTCStGlbSfgnn58-5uq4yHTAgEG4VK5moQUtt6XETV9CG9DtZYm",
+    "video": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210504/b739198085dc4c2.mp4",
+    "imdb": "IMDB 7.6"
+  },
+  {
+    "title": "Abominable (2019)",
+    "preview": "https://m.media-amazon.com/images/M/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "video": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210424/ea98115e1d1940a.mp4",
+    "imdb": "IMDB 7.0"
   }
 ]
