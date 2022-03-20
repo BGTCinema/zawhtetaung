@@ -1944,5 +1944,33 @@
     "preview": "https://m.media-amazon.com/images/M/MV5BOWFhMGVjNDMtMGJmMC00NGY2LWE3NGUtYjMzNGZlNDY5NDZlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
     "video": "http://media.mycinema.asia/media/films/Old.2021.360p/Old.2021.360p.m3u8",
     "timestamp": "19/3/2022"
+  },
+  {
+    "title": "Those Who Wish Me Dead (2021)",
+    "imdb": "IMDB 6.5",
+    "preview": "https://m.media-amazon.com/images/M/MV5BMDAxMmQ0NTAtNDllNC00ZjE2LTlkNjUtMmExNmY0MmNkMDQ0XkEyXkFqcGdeQXVyNzYyOTM1ODI@._V1_.jpg",
+    "video": "http://media.mycinema.asia/media/films/Those.Who.Wish.Me.Dead.2021.360p/Those.Who.Wish.Me.Dead.2021.360p.m3u8",
+    "timestamp": "20/3/2022"
+  },
+  {
+    "title": "Cruella (2021)",
+    "imdb": "IMDB 7.4",
+    "preview": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "video": "http://media.mycinema.asia/media/films/Cruella/Cruella.m3u8",
+    "timestamp": "20/3/2022"
+  },
+  {
+    "title": "102 Dalmatians (2021)",
+    "imdb": "IMDB 4.8",
+    "preview": "https://static.wikia.nocookie.net/101dalmatians/images/4/43/102D.jpg/revision/latest?cb\u003d20120618233141",
+    "video": "http://media.mycinema.asia/media/films/102.Dalmatians.2000/102.Dalmatians.2000.m3u8",
+    "timestamp": "20/3/2022"
+  },
+  {
+    "title": "Along Came the Devil (2018)",
+    "imdb": "IMDB 4.0",
+    "preview": "https://m.media-amazon.com/images/M/MV5BNzAwYzcxOGEtYjdmYy00NmI2LTgzY2EtMzVhYjhiNWI4NDBkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg",
+    "video": "http://media.mycinema.asia/media/films/Along_Came_The_Devil_2018_360/Along_Came_The_Devil_2018_360.m3u8",
+    "timestamp": "20/3/2022"
   }
 ]
